@@ -1,0 +1,30 @@
+{
+  "user_keywords": [
+    "cozy ambiance",
+    "friendly staff",
+    "quick service",
+    "delicious food",
+    "affordable prices",
+    "clean environment",
+    "family-friendly",
+    "great presentation",
+    "excellent location",
+    "romantic atmosphere"
+  ],
+  "backend_keywords": [
+    "authentic taste",
+    "well-seasoned",
+    "polite service",
+    "consistent quality",
+    "timely preparation"
+  ],
+  "seo_keywords": [
+    {"word": "best restaurant in town", "weight": 0.9},
+    {"word": "highly recommended", "weight": 0.85},
+    {"word": "perfect dining experience", "weight": 0.8},
+    {"word": "value for money", "weight": 0.75},
+    {"word": "exceptional customer service", "weight": 0.7},
+    {"word": "hidden gem", "weight": 0.65},
+    {"word": "must-try dishes", "weight": 0.6}
+  ]
+}
